@@ -1,8 +1,8 @@
 {
-  "name": "fullstackreacttemplate",
+  "name": "stockboys",
   "version": "1.0.0",
-  "description": "fullstackreacttemplate",
-  "author": "Nicholas Vincent-Hill",
+  "description": "Stock trading app",
+  "author": "John Castberg/Tad Schukar",
   "license": "",
   "engines": {
     "node": ">=6.13.0"
